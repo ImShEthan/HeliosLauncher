@@ -1,11 +1,11 @@
 {
   "name": "helioslauncher",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "productName": "Helios Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) & Tatane (https://github.com/ImShEthan/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/ImShEthan/HeliosLauncher",
   "bugs": {
     "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/ImShEthan/HeliosLauncher.git"
   }
 }
